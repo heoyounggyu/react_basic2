@@ -22,3 +22,21 @@
   
   ![image](https://github.com/heoyounggyu/react_basic2/assets/129017041/b9cccace-fca6-47b3-9a4a-b986d17c4332)
 
+# 전역변수와 지역변수
+  
+  ![image](https://github.com/heoyounggyu/react_basic2/assets/129017041/ae102fdc-8137-43f0-ade7-79f4470b85f5)
+
+  
+  
+# 보간법  
+  
+  ![image](https://github.com/heoyounggyu/react_basic2/assets/129017041/8cd532c7-48ba-4e4f-bbcd-f67af4b92594)
+  
+# nesting(네스팅)---품다
+  
+# 함수
+  
+  ![image](https://github.com/heoyounggyu/react_basic2/assets/129017041/e9692592-9cab-41b8-a284-9e692556e3fd)
+  
+  
+
