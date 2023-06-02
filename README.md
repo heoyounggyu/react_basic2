@@ -37,6 +37,13 @@
 # 함수
   
   ![image](https://github.com/heoyounggyu/react_basic2/assets/129017041/e9692592-9cab-41b8-a284-9e692556e3fd)
+ 
+ # extend
+  ![image](https://github.com/heoyounggyu/react_basic2/assets/129017041/a7c3890b-9bd9-4f53-bddd-8a377a8a6514)
+
+
+  
+
   
   
 
